@@ -16,4 +16,4 @@ docker compose up -d
 
 Buka aplikasi pada:
 
-http://localhost:8081
+http://localhost:9090
